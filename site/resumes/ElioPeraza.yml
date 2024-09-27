@@ -2,8 +2,8 @@
 template: online-cv
 skin: blue
 basic_info:
-  first_name: Elio
-  last_name: Peraza
+  first_name: Elio.
+  last_name: Peraza.
   motto: Apacionado por la Tecnologia.
   focus: Full Stact Developer
   summary: TSU en Análisis y Programación Computacional con experiencia en soporte
@@ -12,7 +12,7 @@ basic_info:
     oportunidad para aplicar y expandir mis conocimientos en desarrollo de
     software en un entorno profesional.
   avatar: null
-  email: perazaelio@gmail.com
+  email: perazaelio@gmail.com.
   phone: 56982908458
   website: null
   linkedin: null
@@ -60,6 +60,7 @@ experiences:
       - Asistencia y soporte técnico a computadores,Manejo de consultas y quejas
         de lo clientes,Diagnostico de problemas técnicos a
         computadores,Mantenimiento y actualización de software
+        
   - role: Soporte Tecnico
     time: 2012 - 2013
     company: Clinica IDET Barquisimeto
@@ -67,6 +68,7 @@ experiences:
     details: Asistencia y resolución de problemas técnicos, Instalación ,
       configuración y mantenimiento de software y hardware,Respaldo y formateo
       de equipos.
+
 projects:
   intro: There are some of my github projects for the 4GeeksAcademy course!
   assignments:
@@ -84,13 +86,13 @@ projects:
       project_logo: null
       link: https://github.com/ElioPeraza/Formulario-with-HTML5
       tagline: A responsive website template designed to input information on a
-        Formulary   --
+        Formulary   
 skills:
   toolset:
     - name: Python
       level: 50%
     - name: JavaScript
-      level: 0%
+      level: 50%
     - name: Angular
       level: 0%
     - name: HTML5 & CSS
